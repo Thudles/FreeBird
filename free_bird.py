@@ -1,4 +1,4 @@
-#This was made in google collab I have made clear each block#
+# This was made in google collab I have made clear each block #
 
 #----------------------------------#
 import tweepy
